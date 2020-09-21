@@ -1,0 +1,2 @@
+Info (10281): Verilog HDL Declaration information at cronometro.v(7): object "cont_centesimo" differs only in case from object "Cont_centesimo" in the same scope
+Info (10281): Verilog HDL Declaration information at cronometro.v(7): object "cont_segundo" differs only in case from object "Cont_segundo" in the same scope
